@@ -1,0 +1,1 @@
+# pyhton-program-to-find-the-average-of-10-numbwers
